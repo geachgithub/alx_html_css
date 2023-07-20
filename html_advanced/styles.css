@@ -3,9 +3,12 @@ body main{
 }
 body{
     flex-direction: column;
-    background-color: burlywood;
+    background-color: silver;
     border-style:solid ;
     border-width: 1px;
+}
+header{
+    background-color: gray;
 }
 main{
     flex-direction: row;
@@ -15,11 +18,11 @@ article{
     flex: 2;
     overflow-y: auto;
     border-style:solid ;
-    border-width: 1px;
+    border-width: 0.5px;
 }
 aside{
     flex: 1;
     overflow-y: auto;
     border-style:solid ;
-    border-width: 1px;
+    border-width: 0.5px;
 }
