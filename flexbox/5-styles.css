@@ -262,7 +262,7 @@
   
   /* Header
       ============================= */
-  .headeer-contaner{
+  .headeer-contaner {
     display:flex;
     justify-content:space-between;
   }
