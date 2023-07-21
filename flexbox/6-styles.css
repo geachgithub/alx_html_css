@@ -233,7 +233,7 @@
     letter-spacing: var(--nav-item-letter-spacing);
     /* display: var(--nav-item-display); */
   }
-  .naa-item + .naa-item{
+  .nav-item + .nav-item{
     margin: var(--nav-item-margin);
   }
   .nav .nav-link {
